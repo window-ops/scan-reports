@@ -1,3 +1,3 @@
 # Scan Reports
 
-Self-explanatory.
+A list of scan reports for certain fictional exoplanets.
